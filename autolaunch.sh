@@ -2,6 +2,6 @@
 COUNTER=1
 while(true) do
 ./megareborn.sh
-curl "https://api.telegram.org/bot301221764:AAFkVdYC5n4VsQYyrxVcZLyUe-kTSqSJoAc/sendmessage" -F "chat_id=308444837" -F "text=#NEWCRASH-#TeleBeyond-Reloaded-${COUNTER}-times"
-let COUNTER=COUNTER+1 
+curl "https://api.telegram.org/bot357240650:AAE7NWBJllh3c6jYCpWi9vqtN3ACHLD8FLc/sendmessage" -F "chat_id=185906807" -F "text=#NEWCRASH-#TeleBeyond-Reloaded-${COUNTER}-times"
+let COUNTER=COUNTER+1
 done
