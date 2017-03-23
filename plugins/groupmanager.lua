@@ -1,4 +1,3 @@
-3498 lines (3329 sloc) 109 KB
 local function modadd(msg)
 local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
